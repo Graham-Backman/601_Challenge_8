@@ -11,3 +11,9 @@ Q1. What was the last movie that I, Graham Backman, watched in a movie theater?
 ```{r}
 #I saw the Barbie movie!!!
 ```
+
+Q2. What did I, Graham Backman, eat for lunch today?
+
+```{r}
+#I had a stirfry!!!
+```
